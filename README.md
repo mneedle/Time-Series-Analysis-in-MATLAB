@@ -4,5 +4,5 @@ This is a time series analysis project that I completed in MATLAB as part of an 
 # About the supporting data
 The supporting data ("timeseries2015.xlsx") contains data from a quantitative diary of an individual suffering from bipolar disorder, from each day in 2015.There are 8 columns, which represent – in order: The date, the number of hours slept that day, daily mood on a scale from -2.5 to 2.5, energy levels on a scale from 0 to 2, inspiration (the individual is an artist) on a scale from 0 to 2, number of hours worked that day, minutes of REM sleep that night and minutes of deep sleep that night. 
 
-## Instructions to Run 
+# Instructions to Run 
 There are no dependencies or assumptions to run this script, but you will need to copy the MATLAB script to a M-File (.m) and download the supporting data ("timeseries2015.xlsx"). 
